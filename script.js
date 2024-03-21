@@ -145,7 +145,7 @@ let gameOver = false;
                 gameOver = true;
             }
 
-            document.querySelector(".score").innerText = snake.total;
+            document.querySelector(".score-value").innerText = snake.total;
         } else {
             endGame();
         }
@@ -178,3 +178,4 @@ function restartGame() {
     fruit.pickLocation();
     document.querySelector("button").remove();
 }
+
