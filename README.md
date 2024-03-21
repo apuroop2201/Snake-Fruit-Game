@@ -4,6 +4,9 @@ Welcome to the Snake and Fruit Game! This is a classic snake game where you cont
 
 ![Gameplay Screenshot](https://github.com/apuroop2201/Snake-Fruit-Game/blob/main/Gameplay.png)
 
+
+Used Github Actions to Automate the Workflow and Build, test and deploy the game when any change is made to source code.
+
 [![GitHub Workflow Status](https://github.com/apuroop2201/Snake-Fruit-Game/blob/main/Github_Actions.png)](https://github.com/apuroop2201/Snake-Fruit-Game/actions)
 
 ## How to Play
