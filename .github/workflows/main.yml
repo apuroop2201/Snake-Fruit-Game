@@ -1,0 +1,24 @@
+name: Auto Deploy
+
+on:
+  push:
+    paths:
+      - 'index.html'
+      - 'style.css'
+      - 'script.js'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Deploy changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Auto deploy changes"
+          git push origin main
