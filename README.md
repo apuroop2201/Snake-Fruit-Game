@@ -13,7 +13,7 @@ Welcome to the Snake and Fruit Game! This is a classic snake game where you cont
 - The game keeps track of your score, which increases each time the snake eats a fruit.
 
 ## Demo
-Play the game [here](https://apuroop2201.github.io/Snake-Fruit-Game/) (Replace '#' with your game's URL once deployed).
+Play the game [here](https://apuroop2201.github.io/Snake-Fruit-Game/) 
 
 ## Features
 - Simple and intuitive gameplay.
@@ -31,4 +31,4 @@ Play the game [here](https://apuroop2201.github.io/Snake-Fruit-Game/) (Replace '
 2. Open `index.html` in your web browser.
 
 ## Credits
-This game is inspired by the classic Snake game and was developed by Your Name.
+This game is inspired by the classic Snake game and was developed by Apuroop Pendurthi
