@@ -2,7 +2,7 @@
 
 Welcome to the Snake and Fruit Game! This is a classic snake game where you control a snake to eat fruits and grow longer without hitting the walls or itself. Have fun!
 
-![Gameplay Screenshot]([screenshot_url_here](https://github.com/apuroop2201/Snake-Fruit-Game/blob/main/Gameplay.png))
+![Gameplay Screenshot]([(https://github.com/apuroop2201/Snake-Fruit-Game/blob/main/Gameplay.png)])
 
 [![GitHub Workflow Status](https://github.com/apuroop2201/Snake-Fruit-Game/blob/main/Github_Actions.png)](https://github.com/apuroop2201/Snake-Fruit-Game/actions)
 
